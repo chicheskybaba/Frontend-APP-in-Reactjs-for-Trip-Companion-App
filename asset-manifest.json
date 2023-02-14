@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Frontend-APP-in-Reactjs-for-Trip-Companion-App/static/css/main.44f8b8b5.css",
+    "main.js": "/Frontend-APP-in-Reactjs-for-Trip-Companion-App/static/js/main.76cf2f70.js",
+    "static/js/787.cda612ba.chunk.js": "/Frontend-APP-in-Reactjs-for-Trip-Companion-App/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Frontend-APP-in-Reactjs-for-Trip-Companion-App/index.html",
+    "main.44f8b8b5.css.map": "/Frontend-APP-in-Reactjs-for-Trip-Companion-App/static/css/main.44f8b8b5.css.map",
+    "main.76cf2f70.js.map": "/Frontend-APP-in-Reactjs-for-Trip-Companion-App/static/js/main.76cf2f70.js.map",
+    "787.cda612ba.chunk.js.map": "/Frontend-APP-in-Reactjs-for-Trip-Companion-App/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.76cf2f70.js"
+  ]
+}
